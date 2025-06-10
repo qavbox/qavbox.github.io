@@ -1,17 +1,12 @@
-
 ---
 title: "Setup maven java for windows mac OS"
 categories:
   - Selenium
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - QA
+  #- Post Formats
+#link: https://github.com
 ---
-
-
-
-**Setup Maven & Java for Selenium \[Windows & Mac OS\]**                                                 
 
 
 Setup Maven & Java for Selenium \[Windows & Mac OS\]
