@@ -1,5 +1,8 @@
 main:
-  - title: "Posts"
+  - title: "Tutorials"
+    manu:
+      - title: "Selenium"
+        url: /selenium-tutorial/
     url: /posts/
   - title: "Categories"
     url: /categories/
