@@ -1,5 +1,5 @@
 ---
-permalink: /Selenium-tutorial/
+permalink: /selenium-tutorial/
 title: "Selenium Tutorial"
 ---
 
