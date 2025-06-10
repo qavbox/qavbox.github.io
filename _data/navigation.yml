@@ -1,6 +1,6 @@
 main:
   - title: "Tutorials"
-    manu:
+    menu:
       - title: "Selenium"
         url: /selenium-tutorial/
     url: /posts/
