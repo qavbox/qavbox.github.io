@@ -22,8 +22,8 @@ title: "Selenium Tutorial"
 *   [Selenium Locator strategies – how to identify browser elements](http://www.qavalidation.com/2015/03/how-selenium-identifies-elements-on.html)
 *   [Selectorhub](https://www.youtube.com/watch?v=wasbFRvXdRE&t=17s) – browser extension for xpath & css selector
 *   [XPATH/CSS selector patterns](http://www.qavalidation.com/2015/05/xpath-css-patterns.html)
-*   [XPATH / CSS Multiple expressions – and | or](https://qavalidation.com/2020/12/xpath-css-multiple-expressions-and-or.html/)
-*   [XPATH / CSS – contains | starts-with | ends-with attributes](https://qavalidation.com/2020/12/xpath-css-contains-starts-with-ends-with-attributes.html/)
+*   [XPATH / CSS Multiple expressions – and, or](https://qavalidation.com/2020/12/xpath-css-multiple-expressions-and-or.html/)
+*   [XPATH / CSS – contains, starts-with, ends-with attributes](https://qavalidation.com/2020/12/xpath-css-contains-starts-with-ends-with-attributes.html/)
 *   [Verify Xpath or CSS queries on chrome browser](http://bit.ly/qav-xpathcssonchrome)
 *   [Why webdriver driver = new firefoxdriver()](http://qavalidation.com/2017/04/webdriver-driver-new-firefoxdriver.html/)
 *   [Selenium exceptions | when it occurs & how to handle](https://qavalidation.com/2015/06/selenium-exceptions-when-it-occurs-how-to-handle.html/)
