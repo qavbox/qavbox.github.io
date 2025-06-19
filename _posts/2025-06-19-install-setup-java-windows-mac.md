@@ -71,8 +71,4 @@ Note – sometimes if the java version is not proper, then try restart your mach
 
 Hope this helps!
 
-![](https://secure.gravatar.com/avatar/2b7544c94a9b0dd5510431bbb617b78e?s=80&d=https%3A%2F%2Fqavalidation.com%2Fwp-content%2Fthemes%2Fdt-the7%2Fimages%2Fmask.png&r=g)
-
-#### Author: Admin
-
 Experience & exploration about software QA tools & techniques. Maintaining & writing blog posts on qavalidation.com! Publishing video tutorials on youtube.com/qavbox
