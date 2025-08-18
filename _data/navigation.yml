@@ -1,8 +1,10 @@
 main:
   - title: "Tutorials"
-    menu:
+    sublinks:
       - title: "Selenium"
         url: /selenium-tutorial/
+      - title: "Playwright"
+        url: /playwright/ 
     url: /posts/
   - title: "Categories"
     url: /categories/
@@ -14,3 +16,18 @@ main:
     url: https://qavalidation.com 
   - title: "About"
     url: /about/
+
+
+main:
+  - title: "About Me"
+    url: /about/
+  - title: "Tech Stream"
+    url: /techstream/
+  - title: Archive
+    sublinks:
+      - title: By Tag
+        url: /tags/
+      - title: By Category
+        url: /categories/
+      - title: By Year
+        url: /year-archive/
