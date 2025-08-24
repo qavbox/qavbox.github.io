@@ -5,7 +5,12 @@ main:
         url: /selenium-tutorial/
       - title: "Playwright"
         url: /playwright/ 
-    url: /posts/
+      url: /posts/  
+    children:   
+      - title: "Selenium"
+        url: /selenium-tutorial/
+      - title: "Playwright"
+        url: /playwright/ 
   - title: "Categories"
     url: /categories/
   - title: "Tags"
